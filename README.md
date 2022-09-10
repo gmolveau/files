@@ -1,2 +1,3 @@
 # files
-serve static files using gh-pages
+
+serve static (mostly html) files using gh-pages
